@@ -1,0 +1,49 @@
+body {
+  font-family: Gaegu, sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+  width: 1000px;
+  margin: 0 auto;
+  border-top: 5px solid #f49b42;
+  border-bottom: 25px ridge #f49b42;
+  background-color: #f2efdc;
+  padding: 50px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: #312e60;
+  margin-top: 0;
+}
+nav {
+  text-align: center;
+  color: purple;
+}
+nav ul {
+  list-style-type: none;
+  margin-bottom: -3px;
+}
+nav li {
+  display: inline-block;
+}
+.current-page {
+  font-weight: bold;
+  font-style: italic;
+  color: red;
+  border-right: 1px solid #222;
+  padding-right: 10px;
+}
+a {
+  color: #312e60;
+  font-weight: bold;
+}
+.profile {
+  height: 250px;
+  width: 400px;
+  float:right;
+  border: 1px solid #222;
+  padding: 5px;
+  padding-left: 15px;
+  margin-left: 20px;
+}
