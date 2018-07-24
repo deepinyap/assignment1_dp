@@ -56,6 +56,6 @@ p.disc {
   font-weight: bold;
   font-style: italic;
   color: #030609;
-  border-right: 1px solid #222;
-  padding-right: 7px;
+  border-left: 1px solid #222;
+  padding-left: 3px;
 }
